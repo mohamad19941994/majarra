@@ -1,2 +1,2 @@
 # majarra
-Erd dynamic translations + Design Pattern
+Design Pattern
